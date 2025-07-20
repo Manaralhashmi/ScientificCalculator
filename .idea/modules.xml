@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/ScientificCalculator.iml" filepath="$PROJECT_DIR$/ScientificCalculator.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/first trial.iml" filepath="$PROJECT_DIR$/first trial.iml" />
+>>>>>>> b247478b14d33ab445a7bc49488467be7232d472
     </modules>
   </component>
 </project>
